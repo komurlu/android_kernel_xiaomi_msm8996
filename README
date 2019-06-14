@@ -1,15 +1,4 @@
-     Xiaomi mi5 Kernel, 
-     mrmathematica's changes plus Boeffla WL applied.
-     
-     msm_performance: Make input boosting optional 45a327bd3021179371cc6077e1a2dd29d8b4b059
-     SafetyNet patch by sultanxda: d6024ce3584e0a0dea8c69f691e5ef13694462ec
-     Standard 820 frequency for Oreo: 34c27c23bd185f4fdaf49f2222c46adf88ad7d6c
-     Boeffla 535864e30085172f65b52e759440d7c5d4c743e8  325c051210f60c77fd18ccd60eb89881362c78d4  cae8818811b42e7e332e691094d9313a2b04a860 47216bf718f9b67726b908bc1d12a915f3fd2db7
-
-     ----------------------
-     
-     
-     Linux kernel release 3.x <http://kernel.org/>
+Linux kernel release 3.x <http://kernel.org/>
 
 These are the release notes for Linux version 3.  Read them carefully,
 as they tell you what this is all about, explain how to install the
